@@ -31,4 +31,4 @@ mariabackup:password
 | 'mariabackup'@'localhost' needs 4 privileges: RELOAD, PROCESS, LOCK TABLES, and BINLOG MONITOR. |
 +-------------------------------------------------------------------------------------------------+
 root@m1:~/verify_sst_auth$
-``
+```
