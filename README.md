@@ -1,5 +1,6 @@
 # Verify SST Auth
 Verify that Mariadb Galera cluster node is correctly configured for Mariabackup SST.
+
 Script by Edward Stoever for Mariadb Support.
 
 This script is self-explanatory. 
