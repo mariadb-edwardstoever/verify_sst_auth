@@ -3,7 +3,15 @@ Verify that Mariadb Galera cluster node is correctly configured for Mariabackup 
 
 Script by Edward Stoever for Mariadb Support.
 
-This script is self-explanatory. 
+
+To download this script direct to your linux server, you may use git or wget:
+```
+git clone https://github.com/mariadb-edwardstoever/verify_sst_auth.git
+```
+```
+wget https://github.com/mariadb-edwardstoever/verify_sst_auth/archive/refs/heads/main.zip
+```
+
 
 Output from this script looks like this:
 ```
